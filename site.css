@@ -1,12 +1,28 @@
 body {
-  font-size:16px;
+    margin: 7em;
+    background-color: #f5efe7;
+    font-family: Cardo, serif;
+}
+
+@media(max-width: 900px) {
+  body {
+    margin: 1em;
+  }
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: Open Sans, sans-serif;
+}
+
+section {
+    margin-top: 40px;
 }
 
 a, a:visited, a:active, a:hover {
   color: blue;
 }
 
-ul {
+ul.where {
   list-style-type: none;
 }
 
@@ -14,7 +30,7 @@ ul.where {
   padding: 0;
 }
 ul.where li {
-  display: inline;
+  display: inline !important;
 }
 
 ul.where li:not(:first-child):before {
