@@ -4,7 +4,7 @@ jobs:
   deploy:
     working_directory: ~/circle-tmp-folder
     docker:
-        - image: circleci/node:4.8.2
+        - image: cimg/node:18.10.0
     steps:
        - checkout
 
