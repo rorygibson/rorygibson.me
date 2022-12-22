@@ -23,7 +23,7 @@ jobs:
 
        - run:
            name: Deploy
-           command: 'aws s3 sync ~/circle-tmp-folder s3://rorygibson.me --delete --region eu-west-1  --exclude ".git/*"'
+           command: 'aws s3 sync ~/circle-tmp-folder/public s3://rorygibson.me --delete --region eu-west-1  --exclude ".git/*"'
 
        - run:
            name: awscli1
