@@ -2,6 +2,10 @@
 #+TITLE: 2022 in review
 #+HTML_DOCTYPE: html5
 
+[[./index.org][< Back to home]]
+
+
+
 Looking back at 2022, it's been hard work at times but as the year draws to a close I'm taking the opportunity to stop, think about everything that's happened, and be thankful.
 In total, I think this may qualify as one of the best years of my life.
 

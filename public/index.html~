@@ -24,21 +24,21 @@
 <header>
 <h1 class="title">Rory Gibson</h1>
 </header>
-<div id="outline-container-orgb4fda90" class="outline-3">
-<h3 id="orgb4fda90">London-based Chief Technology Officer (CTO)</h3>
-<div class="outline-text-3" id="text-orgb4fda90">
+<div id="outline-container-orgce76d79" class="outline-3">
+<h3 id="orgce76d79">London-based Chief Technology Officer (CTO)</h3>
+<div class="outline-text-3" id="text-orgce76d79">
 <nav>
 <p>
-<a href="#org2947878">Who I am</a> | <a href="#orge43541d">What I do</a> | <a href="#org65e8730">My style</a> | <a href="#org66e0954">Paying it forward</a> | <a href="#org0fc7f86">Articles</a>  | <a href="#orge37120d">Contact me</a>
+<a href="#orga496d7d">Who I am</a> | <a href="#org48464d1">What I do</a> | <a href="#org9c379b6">My style</a> | <a href="#org5757d4b">Paying it forward</a> | <a href="#org349a827">Articles</a>  | <a href="#org89364ab">Contact me</a>
 </p>
 </nav>
 </div>
 </div>
 
 
-<div id="outline-container-org2947878" class="outline-2">
-<h2 id="org2947878">Who I am</h2>
-<div class="outline-text-2" id="text-org2947878">
+<div id="outline-container-orga496d7d" class="outline-2">
+<h2 id="orga496d7d">Who I am</h2>
+<div class="outline-text-2" id="text-orga496d7d">
 <p>
 With more than two decades' experience as a developer, architect, consultant, CTO and founder, I've been around the block a few times in tech.
 I've worked in the public sector, in agencies, in startups, in gambling, fintech, marketing tech, big data and enterprise software.
@@ -51,13 +51,13 @@ Through my consultancy, Cohesive Technology, I act as a Fractional or Interim CT
 </div>
 
 
-<div id="outline-container-orge43541d" class="outline-2">
-<h2 id="orge43541d">What I do</h2>
-<div class="outline-text-2" id="text-orge43541d">
+<div id="outline-container-org48464d1" class="outline-2">
+<h2 id="org48464d1">What I do</h2>
+<div class="outline-text-2" id="text-org48464d1">
 </div>
-<div id="outline-container-org14b1bd7" class="outline-3">
-<h3 id="org14b1bd7">Fractional / Interim / Consulting CTO</h3>
-<div class="outline-text-3" id="text-org14b1bd7">
+<div id="outline-container-org60beb96" class="outline-3">
+<h3 id="org60beb96">Fractional / Interim / Consulting CTO</h3>
+<div class="outline-text-3" id="text-org60beb96">
 <p>
 Many startups don't need to hire a full-time CTO. Getting an experienced one is expensive! Not only that, but many of the CTO's with the chops to help your company scale up are no longer hands-on enough to help you build the thing in the first place.
 </p>
@@ -72,9 +72,9 @@ Bringing me in part-time (what we call being a "fractional CTO", because you get
 </div>
 </div>
 
-<div id="outline-container-orgd8e442d" class="outline-3">
-<h3 id="orgd8e442d">Due Diligence</h3>
-<div class="outline-text-3" id="text-orgd8e442d">
+<div id="outline-container-orgdf67d99" class="outline-3">
+<h3 id="orgdf67d99">Due Diligence</h3>
+<div class="outline-text-3" id="text-orgdf67d99">
 <p>
 I regularly undertake technology-focussed Due Diligence reviews for Venture Capital and Private Equity houses. These range in scope from quick summaries to multi-day (or multi-week!) deep dives.
 </p>
@@ -89,9 +89,9 @@ If either of these services are of interest, please <a href="mailto:rg@rorygibso
 </div>
 </div>
 
-<div id="outline-container-orgbb50641" class="outline-3">
-<h3 id="orgbb50641">Trolley</h3>
-<div class="outline-text-3" id="text-orgbb50641">
+<div id="outline-container-orgee71d21" class="outline-3">
+<h3 id="orgee71d21">Trolley</h3>
+<div class="outline-text-3" id="text-orgee71d21">
 <p>
 I operate <a href="https://trolley.link">Trolley</a>, a simple payments platform for small businesses, entrepreneurs and bootstrappers. It lets you do things like sell products (digital, physical or subscription) from any website, and it's designed explicitly to work with Jamstack ("static") websites.
 </p>
@@ -100,9 +100,9 @@ I operate <a href="https://trolley.link">Trolley</a>, a simple payments platform
 </div>
 
 
-<div id="outline-container-org65e8730" class="outline-2">
-<h2 id="org65e8730">My style</h2>
-<div class="outline-text-2" id="text-org65e8730">
+<div id="outline-container-org9c379b6" class="outline-2">
+<h2 id="org9c379b6">My style</h2>
+<div class="outline-text-2" id="text-org9c379b6">
 <p>
 Since about 2002 I've been an advocate of agile and of the XP practices. I've always belived in the agile manifesto more than I have in commercialised methodologies like Scrum, SAFe and so on. I tend to look at tech and people problems from first principles, and to start by simplifying wherever possible.
 </p>
@@ -115,9 +115,9 @@ I believe that teams make software, and that a boss's responsibility is to help,
 
 
 
-<div id="outline-container-org66e0954" class="outline-2">
-<h2 id="org66e0954">Paying it forward</h2>
-<div class="outline-text-2" id="text-org66e0954">
+<div id="outline-container-org5757d4b" class="outline-2">
+<h2 id="org5757d4b">Paying it forward</h2>
+<div class="outline-text-2" id="text-org5757d4b">
 <p>
 If you're a startup founder, or an aspiring tech leader, or a person with an idea or a problem, and you think that an hour of talking to someone like me might help you out of a hole, I'd like to help.
 </p>
@@ -134,18 +134,18 @@ In person. London (West End or central), daytime, somewhere with coffee.
 </div>
 </div>
 
-<div id="outline-container-org0fc7f86" class="outline-2">
-<h2 id="org0fc7f86">Articles</h2>
-<div class="outline-text-2" id="text-org0fc7f86">
+<div id="outline-container-org349a827" class="outline-2">
+<h2 id="org349a827">Articles</h2>
+<div class="outline-text-2" id="text-org349a827">
 <ul class="org-ul">
 <li><a href="./2022-in-review.html">2022 in review</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org3a86357" class="outline-2">
-<h2 id="org3a86357">Older articles</h2>
-<div class="outline-text-2" id="text-org3a86357">
+<div id="outline-container-org2868922" class="outline-2">
+<h2 id="org2868922">Older articles</h2>
+<div class="outline-text-2" id="text-org2868922">
 <p>
 I've written a fair amount over the years. Here's a sample of some of the more popular posts from the last while.
 </p>
@@ -165,9 +165,9 @@ I've written a fair amount over the years. Here's a sample of some of the more p
 </div>
 
 
-<div id="outline-container-orge37120d" class="outline-2">
-<h2 id="orge37120d">Where to find me</h2>
-<div class="outline-text-2" id="text-orge37120d">
+<div id="outline-container-org89364ab" class="outline-2">
+<h2 id="org89364ab">Where to find me</h2>
+<div class="outline-text-2" id="text-org89364ab">
 <p>
 I'm usually rorygibson in online communities. There is another Rory Gibson, but he is an actor in Hollywood and he is not me.
 </p>
