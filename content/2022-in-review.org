@@ -1,0 +1,119 @@
+#+OPTIONS: toc:nil
+#+TITLE: 2022 in review
+#+HTML_DOCTYPE: html5
+
+Looking back at 2022, it's been hard work at times but as the year draws to a close I'm taking the opportunity to stop, think about everything that's happened, and be thankful.
+In total, I think this may qualify as one of the best years of my life.
+
+This post is my attempt to rationalise everything that's happened and try to make sense of it... the fact that other people can read it is sort of incidental!
+
+
+#+BEGIN_nav
+[[*Home][Home and house stuff]]
+
+[[*Away][
+Travel stuff]]
+
+[[*Fencing][
+Fencing]]
+
+[[*Work][
+Work]]
+#+END_nav
+
+
+** Home
+It's a year and a half since we moved house to accommodate our ever-gropwing collection of animals, and Vicki's business.
+Earlier this year, we commissioned a new building in the garden for the animal boarding business, and as part of that I had a garden office (or 'posh shed') built.
+
+So when I'm at home in Yorkshire, this is where I work:
+
+[[file:office.jpg]]
+
+In the latter part of the year we finally began the mammoth task of decorating and fixing things.
+
+It's not like the house was exactly tumbling down, but it's 400+ years old in part, and there isn't a straight line in the place.
+
+The decor was similarly eclectic. Job no. 1 has been the floors, which we've had sanded and fixed up, and have really improved the feel of the place.
+
+[[file:floors.jpg]]
+
+
+** Away
+After a few years off with small kids and a pandemic to contend with, 2022 was the year when the Gibsons finally went travelling again.
+
+And, having had false starts during COVID - and therefore an opportunity to save up - we did in style with a 2 week trip to Hawaii.
+
+If you're on my Facebook you've already seen too many photos, but I'll share one here.
+This is us, on horseback, at sunset, on the Big Island of Hawai'i, on the side of an ancient volcano.
+
+[[file:horseback.jpg]]
+
+This year we also had a short break in Paris in February half term (synopsis: cold, wet, nice hotel, great croissants and crepes) and I had a work trip to Dublin (cold, *very* wet, cosy pubs)
+It's great to be getting abroad again!
+
+
+
+** Fencing
+
+January started off with a bang when I entered my second fencing competition of the last decade, the Guildford Veterans International... and promptly finished second.
+
+#+BEGIN_aside
+[[file:guildford.jpg]]
+#+END_aside
+
+This was something of a surprise to me, but as spring and summer went on and I had another couple of promising results, I was lucky enough to get a call-up to fence for Scotland in the Veterans' Home International match.
+
+After a good day's fencing in Bristol, where I managed not to lose a match, I was feeling pretty good.
+
+It was, however, still absolutely astonishing to find myself selected for Scotland in the Veterans' Commonwealth Championship.
+
+It set me off on the hardest 3 months of physical training I had done in decades.
+
+#+BEGIN_aside
+[[https://www.instagram.com/etenevafitness/][Eteneva Fitness]] for [[https://www.etenevafitness.com/][online and in-person fitness training]]
+#+END_aside
+
+Huge thanks to Nick Dootson (Eteneva Fitness) - having an old fencing friend who's now a personal trainer was a real advantage and I think I'd have been lost without him. As it is, he got me fit, and right now I'm stronger than I've ever been, fitter than I have any right to be at 42, and looking forward to seeing what 2023 will bring.
+
+**** Commonwealth Veterans Championships
+
+The Commonwealths was one of the best experiences of my life. So many familiar faces, such a great atmosphere and so much amazing fencing.
+
+My individual Mens Foil comp didn't go entirely to plan - I did OK in the first round, beating ex-World Champ Paul Wedge but losing to my friend Velota Sung and narrowly dropping a fight to Paul Veazey, who went on to finish second. I cruised through my first direct elimination fight, but then came up against Alex Ellison, who I've been running into all year. He was having a brilliant day - after putting me out he went on to finish third.
+
+A couple of days later, in the Team event, I fenced our first match against Australia. As the first fencer on, I was matched aganst Andrey Tyshchenko, the Australian who had won the individual competition.
+I don't think I've ever been so 'up' for a fight, and I surprised Tyshchenko by defeating him 5-0.
+As a team we defeated the Aussies with no wobbles.
+
+We went on to lose, narrowly, to England in the final - but coming away with Commonwealth Silver was an amazing highlight to the year.
+
+
+[[file:commonwealths.png]]
+
+
+** Work
+Going into 2022 I was working almost exclusively on Due Diligence and technical advisory work, mostly with Private Equity clients, and pretty much exclusively through my partnership with [[https://www.seedcloud.com][Seedcloud]].
+
+While the work was interesting and ever-changing, I began to feel like I wasn't really being fulfilled, and I needed to 'get my hands dirty' again. For me this means taking more accountability, rather than just advising people on what to do, then standing back.
+
+A couple of well-timed conversations with friends led to a re-evaluation of my work life, and I decided to make a bit of a change; thanks to you (you know who you are) for giving me the push to start doing my own thing again.
+
+Stepping back from Seedcloud was a tough call, and I'm very thankful to Graham York and the rest of the team for the graceful way they handled things.
+I was lucky enough to have several people in my network who were, at the time, looking for the kind of technical help I could give them.
+
+So, in June, I set out on my own once more, diving back into being a fully freelance technologist, and managing my own pipeline and networking to find work.
+Initially this made me nervous, but it felt like I found my feet fairly quickly, and I've been very lucky to have lots to do for the last several months.
+
+I'm now working full time as a fractional CTO (effectively an interim and/or part time freelance Chief Technology Officer), and taking on small advisory and coaching clients, or Due Diligence assignments, where it makes sense.
+(if you want to hire me, send me an [[mailto:rg@rorygibson.me][email]])
+
+This period of my career has given me the opportunity to meet amazing new people, and re-establish professional connections with old friends.
+
+Learning about the telephony and VoIP verticals has been an unexpected adventure, which I hope will continue -  [[https://www.dstnyautomate.com/][Dstny Automate]] is a great place to be.
+
+Watching the rise (and rise!) of [[https://www.luno.com][Luno]] in the crypto industry has been a pleasure; hopefully I have contributed in some small way to helping them grow their tech capability.
+
+And working with Jeff Szepanski at [[https://www.reframetech.com/][Reframe]] has been fascinating; I don't think I've learned so much stuff from one person, so quickly, for years. Reframe is going to be awesome, and helping you get it rolling this year has been a privilege. I'm very thankful to Joe Leech for introducing us.
+
+In no particular order I'd like to thank Alan Hughes, J Arthur, Rob Elkin, Simon Ince, Graham York, Julieta Suarez Ruiz de Huidobro, Jeff Szepanski, Greg Schroeder, Jon Mundy. Joe Leech and Matthew Pontefract for being brilliant human beings and making 2022 an excellent year professionally.

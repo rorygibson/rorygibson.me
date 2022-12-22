@@ -1,0 +1,81 @@
+#+OPTIONS: toc:nil
+#+TITLE: Rory Gibson
+#+DESCRIPTION: Rory Gibson, interim CTO, investor due diligence, consultancy in London
+#+HTML_DOCTYPE: html5
+
+*** London-based Chief Technology Officer (CTO)
+
+#+BEGIN_nav
+[[*Who I am][Who I am]] | [[*What I do][What I do]] | [[*My style][My style]] | [[*Paying it forward][Paying it forward]] | [[*Articles][Articles]]  | [[*Where to find me][Contact me]]
+#+END_nav
+
+
+** Who I am
+With more than two decades' experience as a developer, architect, consultant, CTO and founder, I've been around the block a few times in tech.
+I've worked in the public sector, in agencies, in startups, in gambling, fintech, marketing tech, big data and enterprise software.
+
+Through my consultancy, Cohesive Technology, I act as a Fractional or Interim CTO, VP Engineering, Technology Advisor, Non-Exec, 'consulting CTO', or any number of other non-specific job titles. As much as I love building technology, I believe that the hardest bits are the people problems, and if you fix them then the rest will follow.
+
+
+** What I do
+*** Fractional / Interim / Consulting CTO
+
+Many startups don't need to hire a full-time CTO. Getting an experienced one is expensive! Not only that, but many of the CTO's with the chops to help your company scale up are no longer hands-on enough to help you build the thing in the first place.
+
+I often engage part-time with startups and scale-ups who want a good combination of strategy and tactics, from someone who's still close enough to the code to be able to tell what works and what doesn't (and why).
+
+Bringing me in part-time (what we call being a "fractional CTO", because you get a fraction of me!) gives a good price / performance ratio. If that sounds like it might be helpful to your business please [[mailto:rg@rorygibson.me][get in touch]].
+
+*** Due Diligence
+I regularly undertake technology-focussed Due Diligence reviews for Venture Capital and Private Equity houses. These range in scope from quick summaries to multi-day (or multi-week!) deep dives.
+
+Sometimes I do this informally for companies who are planning to raise money (or who have made some changes), and want an objective opinion on how well they're doing.
+
+If either of these services are of interest, please [[mailto:rg@rorygibson.me][email]]  me to talk. References are available upon request.
+
+*** Trolley
+I operate [[https://trolley.link][Trolley]], a simple payments platform for small businesses, entrepreneurs and bootstrappers. It lets you do things like sell products (digital, physical or subscription) from any website, and it's designed explicitly to work with Jamstack ("static") websites.
+
+
+** My style
+Since about 2002 I've been an advocate of agile and of the XP practices. I've always belived in the agile manifesto more than I have in commercialised methodologies like Scrum, SAFe and so on. I tend to look at tech and people problems from first principles, and to start by simplifying wherever possible.
+
+I believe that teams make software, and that a boss's responsibility is to help, and get the hell out of the way. I try to practice Radical Candor in my management, and if I finish a day feeling that I've been kind, honest and helpful then I'm doing OK. There's more about how I work in my [[https://github.com/rorygibson/manager-readme][Manager README]].
+
+
+
+** Paying it forward
+If you're a startup founder, or an aspiring tech leader, or a person with an idea or a problem, and you think that an hour of talking to someone like me might help you out of a hole, I'd like to help.
+
+You can have an hour of my time; call it free tech consultancy, or founder therapy :)
+Bonus if you're from an under-represented group.
+In person. London (West End or central), daytime, somewhere with coffee.
+
+[[mailto:rg@rorygibson.me][Email me]] if you're interested, or you want to intro someone who might be.
+
+** Articles
+ - [[./2022-in-review.org][2022 in review]]
+
+** Older articles
+I've written a fair amount over the years. Here's a sample of some of the more popular posts from the last while.
+
+ - [[https://medium.com/@rorygibson/your-job-is-not-developer-3ffb30ee1374][Your job is not 'developer']]
+ - [[https://hackernoon.com/up-and-running-with-clojurescript-in-2018-7c7a1facfe46][Up and running with ClojureScript in 2018]]
+ - [[https://hackernoon.com/the-simplest-static-site-generator-c775ed88d15a][The simplest static site generator]]
+ - [[https://hackernoon.com/startup-validation-sell-products-take-payments-from-a-simple-landing-page-in-10-minutes-eed9f66e22f][Startup validation: take payments from a landing page in 10 minutes]]
+ - [[https://hackernoon.com/building-a-jira-integration-with-clojure-atlassian-connect-506ebd112807][Building a JIRA integration with Clojure & Atlassian Connect]]
+ - [[https://getctx.io/blog/why-clojure/][Why Clojure?]]
+ - [[https://getctx.io/blog/tools-for-startups/][Tools for startups]]
+ - [[https://getctx.io/blog/devops-for-a-dummy/][DevOps for a Dummy (the operational side of CTX)]]
+ - [[https://performancein.com/news/2014/10/23/inside-boardroom-rory-gibson-cto-bright-north/][PerformanceIN article from a previous life]]
+
+
+** Where to find me
+I'm usually rorygibson in online communities. There is another Rory Gibson, but he is an actor in Hollywood and he is not me.
+
+[[mailto:rg@rorygibson.me][rg@rorygibson.me]] |
+[[https://twitter.com/rorygibson][twitter]] |
+[[https://github.com/rorygibson][github]] |
+[[https://www.linkedin.com/in/rorygibson/][linkedin]] |
+[[https://medium.com/@rorygibson][medium]] |
+[[http://www.cohesivetechnology.co.uk][cohesive technology ltd]]
