@@ -64,9 +64,6 @@ I've written a fair amount over the years. Here's a sample of some of the more p
  - [[https://hackernoon.com/the-simplest-static-site-generator-c775ed88d15a][The simplest static site generator]]
  - [[https://hackernoon.com/startup-validation-sell-products-take-payments-from-a-simple-landing-page-in-10-minutes-eed9f66e22f][Startup validation: take payments from a landing page in 10 minutes]]
  - [[https://hackernoon.com/building-a-jira-integration-with-clojure-atlassian-connect-506ebd112807][Building a JIRA integration with Clojure & Atlassian Connect]]
- - [[https://getctx.io/blog/why-clojure/][Why Clojure?]]
- - [[https://getctx.io/blog/tools-for-startups/][Tools for startups]]
- - [[https://getctx.io/blog/devops-for-a-dummy/][DevOps for a Dummy (the operational side of CTX)]]
  - [[https://performancein.com/news/2014/10/23/inside-boardroom-rory-gibson-cto-bright-north/][PerformanceIN article from a previous life]]
 
 
