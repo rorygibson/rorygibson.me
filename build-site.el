@@ -31,13 +31,14 @@
       org-html-head
 
       "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />
-        <script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-115945260-1\"></script>
+
+        <script async src=\"https://www.googletagmanager.com/gtag/js?id=G-8GG8XZE028\"></script>
         <script>
          window.dataLayer = window.dataLayer || [];
          function gtag(){dataLayer.push(arguments);}
          gtag('js', new Date());
 
-         gtag('config', 'UA-115945260-1');
+         gtag('config', 'G-8GG8XZE028');
         </script>
 
         <meta name=\"msvalidate.01\" content=\"7490D30E228C1CFFF1AD4A323FDF1B41\" />")
