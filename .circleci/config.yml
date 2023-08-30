@@ -35,7 +35,7 @@ jobs:
 
        - run:
            name: CloudFront invalidation
-           command: aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"E209NN5SKNUFNQ\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
+           command: aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"EZHM455CHBY4W\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
 
 
 workflows:
