@@ -31,6 +31,7 @@
       org-html-head
 
       "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />
+       <link rel=\"stylesheet\" href=\"./override.css\" />
 
         <script async src=\"https://www.googletagmanager.com/gtag/js?id=G-8GG8XZE028\"></script>
         <script>

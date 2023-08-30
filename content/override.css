@@ -1,0 +1,36 @@
+.title {
+  font-size: 24pt;
+}
+
+figure {
+  float: left;
+
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+  max-width: 200px;
+  min-width: 200px;
+  text-align: center;
+}
+
+figure img {
+  max-width: 200px;
+  height: 75px;
+}
+
+
+div.clients {
+  min-height: 400px;
+}
+
+div.what {
+  clear: both;
+  margin-top: 60px;
+}
+
+h3 {
+  border-top: solid gray 1px;
+  padding-top: 1em;
+}
