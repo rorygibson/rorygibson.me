@@ -18,12 +18,12 @@ I work with companies and investors to solve technology problems.
 
 Examples of how I work:
  - as your *part-time ('fractional interim') CTO* for a period of time
+ - performing *Technology Due Diligence* on potential acquisitions
  - to *coach and mentor your CTO*, VP Engineering, Engineering Director, etc
- - as an /Advisor to your board/ / CEO, giving you impartial and impactful advice about technology
- - as a /Non Executive Director/
- - to give you a /technology assessment/ of how well your engineering (and product!) teams are working
- - for specific /projects around architecture, Big Data and security/
- - /Technology Due Diligence/ on potential acquisitions
+ - as an *advisor to your board* or CEO, giving you impartial and impactful advice about technology
+ - as a *Non Executive Director*
+ - to give you a *technology assessment* of how well your engineering (and product!) teams are working
+ - for specific *projects around architecture, Big Data and security*
 
 I have two decades' experience of building, running and leading technology teams - development, architecture, team leadership, agile and project management, tactics and strategy.
 I've worked in the public sector, in agencies, in startups, in gambling, fintech, marketing tech, big data and enterprise software; whatever area your company works in, I can help.
